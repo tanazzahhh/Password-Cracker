@@ -44,7 +44,7 @@ If you plan to use version control:
 git clone https://github.com/tanazzahh/Password-Cracker
 cd Password-Cracker
 
-Or Or download the ZIP from GitHub and extract it locally.
+Or download the ZIP from GitHub and extract it locally.
 
 ### 2. Run the Hash Generator
 
