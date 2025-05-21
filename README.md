@@ -41,10 +41,10 @@ You can customize or replace the wordlist file to test different cracking scenar
 1. Clone or Download the Project
 If you plan to use version control:
 
-git clone https://github.com/your-username/password-cracker
-cd password-cracker
+git clone https://github.com/tanazzahh/Password-Cracker
+cd Password-Cracker
 
-Or simply download the folder and extract it locally.
+Or Or download the ZIP from GitHub and extract it locally.
 
 ### 2. Run the Hash Generator
 
@@ -65,8 +65,8 @@ python hash_generator.py
 ## Requirements
 
 - Python 3.x
-- Basic terminal or command-line interface
-- A wordlist file (e.g., wordlist.txt', which is included)
+- Basic terminal/command-line interface
+- A wordlist file (e.g., wordlist.txt', that is included or custom).
 
 ---
 
