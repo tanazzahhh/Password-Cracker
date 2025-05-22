@@ -1,6 +1,6 @@
 # Password Cracker
 
-This project demonstrates basic password security concepts by using Python to hash a password and attempt to crack it using a dictionary-based attack. It is intended for learning and ethical research purposes only.
+This project demonstrates basic password security concepts by using Python to hash a password and attempt to crack it using a dictionary-based attack. It is intended for learning and ethical research purposes only. 
 
 ---
 
