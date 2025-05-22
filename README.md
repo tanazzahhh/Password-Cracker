@@ -39,7 +39,7 @@ You can customize or replace the wordlist file to test different cracking scenar
 1. Clone or Download the Project
 If you plan to use version control:
 
-git clone https://github.com/tanazzahh/Password-Cracker
+git clone https://github.com/tanazzahhh/Password-Cracker
 
 cd Password-Cracker
 
