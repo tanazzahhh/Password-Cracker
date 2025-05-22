@@ -1,7 +1,5 @@
 # Password Cracker
 
-# Password Hashing and Cracking Project (For Educational Use Only)
-
 This project demonstrates basic password security concepts by using Python to hash a password and attempt to crack it using a dictionary-based attack. It is intended for learning and ethical research purposes only.
 
 ---
